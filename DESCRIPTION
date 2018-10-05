@@ -10,3 +10,11 @@ Description: Functions for processing, organizing, reading in data, labeling dat
 License: MIT
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.0
+Imports: 
+    magrittr,
+    dplyr,
+    purrr,
+    tidyr,
+    keras,
+    stringr
