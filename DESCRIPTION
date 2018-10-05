@@ -1,0 +1,12 @@
+Package: ConvNet
+Title: Convenience Functions for Fitting Convolutional Neural Networks with R/Keras/Tensorflow
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Susan",
+           family = "VanderPlas",
+           role = c("aut", "cre"),
+           email = "srvanderplas@gmail.com")
+Description: Functions for processing, organizing, reading in data, labeling data, etc.
+License: MIT
+Encoding: UTF-8
+LazyData: true
